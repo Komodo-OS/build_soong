@@ -77,6 +77,7 @@ var Configuration = map[string]PathConfig{
 	"aarch64-linux-gnu-as": Allowed,
 	"bash":    Allowed,
 	"cpio":    Allowed,
+	"brotli":  Allowed,
 	"dd":      Allowed,
 	"diff":    Allowed,
 	"dlv":     Allowed,
